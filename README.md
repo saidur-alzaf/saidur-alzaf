@@ -19,9 +19,6 @@
 
 </div>
 
-
-# 💫 About Me
-
 ```go
 package main
 
